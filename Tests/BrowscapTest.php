@@ -50,7 +50,7 @@ class BrowscapTest extends WebTestCase
     }
 
     /**
-     * @dataProvider getBrowsers
+     * Data Provider for testBrowsers
      */
     public function getBrowsers() {
 
